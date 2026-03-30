@@ -84,14 +84,6 @@
 
 ---
 
-### 🔹 Training Companies Directory (React App)
-
-✔️ Real-world project (Jordan companies)
-✔️ Clean UI & reusable components
-✔️ Organized data & filtering
-
----
-
 ### 🔹 Spring Boot Backend System 🔥
 
 ✔️ REST API with layered architecture
@@ -114,8 +106,8 @@
 
 ## 📫 Contact Me
 
-* 💼 GitHub: https://github.com/your-username
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 GitHub: https://github.com/ghalebshhab
+* 📧 Email: [your-email@example.com](mailto:ghalebshhab12@icloud.com)
 
 ---
 
@@ -123,7 +115,7 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=your-username\&label=Profile%20Views\&color=blue\&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=ghalebshhab\&label=Profile%20Views\&color=blue\&style=flat)
 
 </div>
 
@@ -131,7 +123,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ghalebshhab/ghalebshhab/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
