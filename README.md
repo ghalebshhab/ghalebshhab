@@ -1,3 +1,21 @@
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ghaleb-shhab-99518b2b2?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codewars.com/users/ghalebshhab" target="_blank">
+  <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/ghmsh04?igsh=cWdoNWcwcmZuMTFj&utm_source=qr" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+</div>
+
 # 👋 Hi, I'm Ghaleb M. Shhab
 
 <div align="center">
@@ -93,10 +111,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghalebshhab&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghalebshhab&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ghalebshhab&theme=tokyonight&hide_border=true)
 
