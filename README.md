@@ -166,7 +166,7 @@
 <a href="https://github.com/ghalebshhab" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="mailto:ghalebshhab12@icloud.com" target="_blank">
+<a href="ghalebshhab12@icloud.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
